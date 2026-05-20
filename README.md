@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Farid%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20%26%20Cloud%20Solution%20Architect&descAlignY=60&descColor=7ecfff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Farid%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20%26%20AI%20Solutions%20Architect%20%7C%20Cloud%20%26%20Oracle%20Expert&descAlignY=60&descColor=7ecfff&animation=fadeIn" />
 
 <!-- BADGES -->
 <p>
@@ -19,7 +19,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=mfalhashimi&label=Profile%20Views&color=2c5364&style=for-the-badge" />
   <img src="https://img.shields.io/badge/British%20Citizen-Glasgow%2C%20UK-003087?style=for-the-badge&logo=gov.uk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Available-Immediately-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" />
 </p>
 
 </div>
@@ -30,11 +30,17 @@
 
 ```yaml
 name:        Mohammed Farid Ahmed
-title:       Senior Data & Cloud Solution Architect
+title:       Senior Data & AI Solutions Architect
 experience:  11+ Years
+current:     AGLINTX IT Consulting LLC — UAE / UK (Remote)
 clearance:   Government / National Security (UAE Ministry of Interior)
 location:    Glasgow, UK  |  Previously Abu Dhabi, UAE
 open_to:     UK Permanent & Contract Roles | Remote | Relocation
+focus_areas:
+  - Oracle-to-Azure Cloud Migration
+  - AI Platform Integration & Agentic Automation
+  - Enterprise Data Architecture & Governance
+  - Oracle 23ai Vector Search & LLM Integration
 education:
   - MSc Information & Communication Technology (Big Data Analytics) — UTeM, Malaysia (2025)
   - PG Diploma Level 7 Project Management — Elegant Intl College, UK
@@ -42,18 +48,20 @@ education:
   - HND Software Development (SQA) — Scottish Qualifications Authority, UK
 ```
 
-> 🏛️ Trusted as **Sole Technical Authority** for 100+ mission-critical systems at the **Abu Dhabi Ministry of Interior** — architecting platforms that power national security, safe city surveillance, and cross-agency data integration for an entire nation.
+> 🏛️ Trusted as **Sole Technical Authority** for 100+ mission-critical systems at the **Abu Dhabi Ministry of Interior** — and now building next-generation **AI-powered data platforms** that merge Oracle expertise with Azure-native and LLM-driven architectures.
 
 ---
 
 ## 🏆 Career Highlights
 
-- 🔒 **National Security Scale** — Designed and operated Oracle RAC / Data Guard / Exadata platforms at **99.995% uptime** supporting UAE law enforcement & public safety
+- 🤖 **AI & Agentic Automation** — Built Claude API agentic pipelines cutting DBA incident response from 45 min → under 5 min
+- 🔀 **Oracle-to-Azure Migration** — Zero-downtime Oracle 19c → Azure SQL MI using DMS, SSMA & hybrid GoldenGate-to-ADF replication
+- 🧠 **Oracle 23ai Vector Search** — Integrated Azure OpenAI embeddings with Oracle 23ai HNSW index, reducing analyst query time by ~70%
+- 📡 **AI Performance Monitoring** — Azure ML anomaly detection predicting database degradation 30 min before breach; 60% faster MTTD
+- 🔒 **National Security Scale** — Oracle RAC / Data Guard / Exadata at **99.995% uptime** supporting UAE law enforcement & public safety
 - 🏗️ **Tier-4 Data Centre Migration** — Led zero-downtime migration of Safe City, National DNA, ERP & Traffic platforms
 - 🔄 **Cross-Government Integration** — Oracle GoldenGate real-time sync between MOI, Emirates ID & Dubai RTA
-- 🤖 **AI for Law Enforcement** — Architected sensitive AI-driven predictive analytics systems (details classified)
 - 📊 **200+ Database Environment** — Managed Oracle, MS SQL, DB2 & PostgreSQL across enterprise/ERP clients UAE-wide
-- 🛡️ **Security Architecture** — IBM Guardium, PAM, Palo Alto & F5 within ISO 27001 classified environments
 
 ---
 
@@ -65,7 +73,7 @@ education:
 |:---:|:---:|
 | ![AZ-305](https://img.shields.io/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=flat-square&logo=microsoftazure) | ![SAP](https://img.shields.io/badge/SAP-Solutions%20Architect%20Professional-FF9900?style=flat-square&logo=amazonaws) |
 | ![AZ-104](https://img.shields.io/badge/AZ--104-Administrator%20Associate-0078D4?style=flat-square&logo=microsoftazure) | ![SAA](https://img.shields.io/badge/SAA-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws) |
-| Azure SQL · Managed Instance · ARM | EC2 · RDS · S3 · VPC · IAM |
+| Azure SQL MI · ADF · Synapse · Purview · OpenAI · Monitor · Logic Apps | EC2 · RDS · S3 · VPC · IAM |
 
 </div>
 
@@ -79,15 +87,27 @@ education:
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-**Oracle Specialisations:** RAC · Data Guard · GoldenGate · Exadata · Supercluster · APEX · EBS R12 · OEM · RMAN
+**Oracle Specialisations:** RAC · Data Guard · GoldenGate · Exadata · Supercluster · APEX · EBS R12 · OEM · RMAN · **23ai Vector Search**
+
+### 🤖 AI & LLM Integration
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-API%20%2B%20MCP-CC785C?style=for-the-badge)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-Anomaly%20Detection-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Oracle%2023ai-Vector%20Search%20HNSW-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**AI Stack:** Agentic Tool-Use · Function Calling · MCP Servers · RAG · Embeddings · ANN Search · Prompt Engineering
+
+### ☁️ Azure Data Platform
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure%20Synapse-Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Purview](https://img.shields.io/badge/Microsoft%20Purview-Governance-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ADLS](https://img.shields.io/badge/Data%20Lake%20Gen2-Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🖥️ Operating Systems & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Solaris](https://img.shields.io/badge/Solaris-HP--UX-003B57?style=for-the-badge&logo=oracle)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-**Infra:** EMC SAN · VERITAS Cluster · Tivoli Monitoring · IBM InfoSphere
 
 ### 📊 Analytics & BI
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -97,9 +117,10 @@ education:
 
 ### 💻 Dev & Scripting
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔐 Security & Governance
 ![IBM Guardium](https://img.shields.io/badge/IBM%20Guardium-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
@@ -148,6 +169,63 @@ education:
 ---
 
 ## 💼 Professional Experience
+
+### 🚀 AGLINTX IT Consulting LLC *(June 2025 – Present · Current)*
+**Senior Data & AI Solutions Architect** | UAE / UK (Remote)
+
+> Independent consulting practice specialising in Oracle-to-Azure cloud migration, AI platform integration, and enterprise data architecture for clients across the UAE and UK.
+
+| # | Project | Key Outcome |
+|---|---|---|
+| 1 | **Oracle 19c → Azure SQL MI Migration** | Zero-downtime cutover via hybrid GoldenGate-to-ADF replication; sub-2hr RPO / 30-min RTO |
+| 2 | **Oracle 23ai AI Vector Search** | Azure OpenAI embeddings + HNSW index; ~70% reduction in analyst query time |
+| 3 | **Claude Agentic AI for DBA Automation** | MCP server + OEM REST APIs; P2 incident response time 45 min → under 5 min |
+| 4 | **ADF Pipeline: Oracle → Data Lake** | Incremental CDC via RowSCN watermarking; Purview lineage tracking end-to-end |
+| 5 | **AI-Powered DB Performance Monitoring** | Azure ML anomaly detection; ~60% faster MTTD vs threshold-only alerting |
+| 6 | **Data Governance Framework (Purview + CDMP)** | DAMA-DMBOK aligned stewardship workflows; sensitivity label propagation across hybrid estate |
+
+<details>
+<summary>📋 <strong>View Project Details</strong></summary>
+
+**Project 1 — Oracle 19c to Azure SQL Managed Instance Migration**
+- Architected full migration pathway using Microsoft DMS and SSMA
+- Schema conversion, PL/SQL → T-SQL stored procedure re-engineering, ADF pipeline data validation
+- Azure Failover Groups (Business Critical tier) replicating Oracle Data Guard topology
+- Zero-downtime cutover via hybrid GoldenGate-to-ADF replication window; sub-2hr RPO / 30-min RTO
+
+**Project 2 — Oracle 23ai AI Vector Search**
+- Configured Oracle 23ai AI Vector Search for semantic similarity across government documents
+- Integrated Azure OpenAI `text-embedding-3-large` to generate/store vectors in Oracle CLOB fields
+- VECTOR datatype schema + HNSW index for high-performance ANN queries
+- Natural language retrieval interface replacing keyword search; ~70% reduction in analyst query time
+
+**Project 3 — Claude Agentic AI for DBA Automation**
+- Claude API with agentic tool-use automating AWR analysis, alert triage, and performance diagnostics
+- MCP server connecting Claude agent to Oracle Enterprise Manager (OEM) REST APIs
+- Tool definitions: space trending, session blocking, SQL plan regression, remediation suggestions
+- P2 incident first-response time: 45 minutes → under 5 minutes
+
+**Project 4 — Azure Data Factory: Oracle → Data Lake**
+- ADF pipelines extracting Oracle 19c data into ADLS Gen2 (Parquet) for AI/ML workloads
+- Incremental CDC via Oracle RowSCN watermarking — GoldenGate-style replication in Azure
+- Azure Synapse Analytics serverless SQL pools over Data Lake for ad-hoc ML feature store queries
+- Microsoft Purview lineage: Oracle source → ADF transform → Synapse output, fully catalogued
+
+**Project 5 — AI-Powered Database Performance Monitoring**
+- Azure Monitor + Log Analytics KQL dashboards for Oracle & Azure SQL observability
+- Azure ML anomaly detection (12 months OEM metrics) predicting degradation 30 min before breach
+- Azure Logic Apps automated incident response → ServiceNow tickets with AI-generated diagnostics
+- ~60% improvement in MTTD vs threshold-only alerting
+
+**Project 6 — Data Governance Framework (Purview + CDMP)**
+- Microsoft Purview governance framework aligned to CDMP / DAMA-DMBOK best practices
+- Automated data cataloguing, lineage tracking, and classification policy enforcement
+- Sensitivity label propagation across Azure SQL and Oracle-sourced datasets
+- Business glossary and data stewardship workflows for cross-environment governance
+
+</details>
+
+---
 
 ### 🏛️ Ministry of Interior – Abu Dhabi Police *(2017 – 2025 · 7 Years)*
 **Lead Technology Strategist / Principal Solutions Architect – Enterprise Data Platforms**
@@ -199,7 +277,7 @@ education:
 
 <div align="center">
 
-*"Engineering resilience at national scale — from Tier-4 data centres to cloud-native architectures."*
+*"Engineering resilience at national scale — from Tier-4 data centres to AI-native cloud architectures."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
